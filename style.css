@@ -1,0 +1,41 @@
+h1 {
+  font-size: 100px;
+  font-family: Times;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 80px;
+  font-family: Times;
+  margin: 0;
+  text-align: center;
+}
+
+.title{
+  color: #33FFD4;
+  font-size: 50px;
+  font-family: Times;
+  font-weight: bold;
+  text-align: center;
+}
+
+.section{
+  color: #2D2D2A;
+  font-size: 25px;
+  font-family: Times;
+  text-align: center;
+}
+
+.link{
+  text-decoration: underline;
+  color: blue;
+  text-align: center;
+}
+
+#image{
+  height: 100px;
+  width: 75px;
+  border: 2px;
+  align-items: center;
+}
